@@ -19,14 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="743f2a2b-1efb-40a2-bf56-510fd1d90998" name="Default Changelist" comment="Bug fix.">
-      <change afterPath="$PROJECT_DIR$/images/home_screen_banner.jpg" afterDir="false" />
+    <list default="true" id="743f2a2b-1efb-40a2-bf56-510fd1d90998" name="Default Changelist" comment="Added sort resume in both versions.&#10;Changed 'Home Screen' image.&#10;Added JS to dynamically change the menu item on scroll-up.&#10;Added css code to customize the resume.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gr.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +88,7 @@
       <workItem from="1601488368323" duration="10389000" />
       <workItem from="1601547167379" duration="3785000" />
       <workItem from="1601557917413" duration="411000" />
-      <workItem from="1602071479221" duration="6007000" />
+      <workItem from="1602071479221" duration="6508000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit.">
       <created>1601549792704</created>
@@ -123,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601550485910</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added sort resume in both versions.&#10;Changed 'Home Screen' image.&#10;Added JS to dynamically change the menu item on scroll-up.&#10;Added css code to customize the resume.">
+      <created>1602082160615</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602082160615</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +148,8 @@
     <MESSAGE value="php to html file transition." />
     <MESSAGE value="php to html file transition. part 2" />
     <MESSAGE value="Bug fix." />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug fix." />
+    <MESSAGE value="Added sort resume in both versions.&#10;Changed 'Home Screen' image.&#10;Added JS to dynamically change the menu item on scroll-up.&#10;Added css code to customize the resume." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added sort resume in both versions.&#10;Changed 'Home Screen' image.&#10;Added JS to dynamically change the menu item on scroll-up.&#10;Added css code to customize the resume." />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601122425401">
@@ -161,10 +164,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601370909493" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601550490699">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602082164751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601550490699" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602082164751" />
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601549741458">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

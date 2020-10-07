@@ -804,6 +804,9 @@ label {
     h4.main_hd {
         font-size: 1.5em !important;
     }
+    h4.main_hd_internal{
+        font-size: 1.5em !important;
+    }
     .banner-text-w3ls h3 {
         font-size: 2.2em !important;
     }
@@ -817,6 +820,9 @@ label {
         width: 30%;
     }
     h4.main_hd {
+        font-size: 1.3em !important;
+    }
+    h4.main_hd_internal{
         font-size: 1.3em !important;
     }
 }
@@ -908,6 +914,9 @@ label {
     h4.main_hd {
         font-size: 1.2em !important;
     }
+    h4.main_hd_internal{
+        font-size: 1.2em !important;
+    }
 }
 
 @media screen and (max-width: 440px) {
@@ -968,6 +977,9 @@ label {
         padding: 2em 1.5em;
     }
     h4.main_hd {
+        font-size: 1.1em !important;
+    }
+    h4.main_hd_internal{
         font-size: 1.1em !important;
     }
     .banner-text-w3ls h3 {
