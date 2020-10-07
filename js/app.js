@@ -15,9 +15,10 @@ $(window).on('scroll', function() {
             }
             main_nav.find('a[href="#' + $(this).attr('id') + '"]').parent('li').addClass('active');
         }
-        if (cur_pos < 200) {
+        if (cur_pos < 250) {
 
             //$(".nav-top ul:first li").addClass('active');  //ΝΑ ΤΟ ΔΕΙΞΩ ΣΤΟΝ ΣΙΜΟ
+            $(".nav-top ul:first li").removeClass('active');
             $(".nav-top ul:first li:first").addClass('active');
         }
     });

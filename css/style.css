@@ -395,7 +395,7 @@ p.top_hdp {
     color: #d2f2e9;
 }
 .banner-text-w3ls {
-    background: url(../images/banner1.jpg) no-repeat bottom;
+    background: url(../images/home_screen_banner.jpg) no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -544,12 +544,24 @@ section.slide-wrapper {
     text-align: left;
     background: #fff;
 }
+
+h4.main_hd:before {
+    content: ">";
+    color: #1d89e4;
+    margin-right: 8px;
+}
+
 h4.main_hd {
     color: #777;
-    font-size: 1.75em;
-    font-weight: 700;
     letter-spacing: 0.075em;
     line-height: 1.5em;
+}
+
+h4.main_hd_internal {
+    color: #777;
+    letter-spacing: 0.075em;
+    line-height: 1.5em;
+    padding-left: 1em;
 }
 p.iner {
     font-size: 1.1em;
