@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="743f2a2b-1efb-40a2-bf56-510fd1d90998" name="Default Changelist" comment="Changed Modal preferences." />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,208 +10,33 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-        <option value="HTML File" />
-        <option value="CSS File" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1hvWBCctttZRGJZemvmsigX633N" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1jndEnQOhtIV1ZyF4T2gN9RLCb6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Simo's Site" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="743f2a2b-1efb-40a2-bf56-510fd1d90998" name="Default Changelist" comment="" />
-      <created>1600891908368</created>
+      <changelist id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="" />
+      <created>1604443681263</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600891908368</updated>
-      <workItem from="1600891909480" duration="155000" />
-      <workItem from="1600944757258" duration="7000" />
-      <workItem from="1601059448873" duration="3457000" />
-      <workItem from="1601121629283" duration="2172000" />
-      <workItem from="1601150987989" duration="3644000" />
-      <workItem from="1601215991149" duration="10000" />
-      <workItem from="1601334064737" duration="518000" />
-      <workItem from="1601367478203" duration="5580000" />
-      <workItem from="1601387837295" duration="1853000" />
-      <workItem from="1601401384310" duration="2165000" />
-      <workItem from="1601407560625" duration="11000" />
-      <workItem from="1601488368323" duration="10389000" />
-      <workItem from="1601547167379" duration="3785000" />
-      <workItem from="1601557917413" duration="411000" />
-      <workItem from="1602071479221" duration="7828000" />
-      <workItem from="1604407209152" duration="91000" />
-      <workItem from="1604434837376" duration="2268000" />
+      <updated>1604443681263</updated>
+      <workItem from="1604443683073" duration="829000" />
     </task>
-    <task id="LOCAL-00001" summary="First Commit.">
-      <created>1601549792704</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1601549792704</updated>
-    </task>
-    <task id="LOCAL-00002" summary="php to html file transition.">
-      <created>1601550005997</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1601550005997</updated>
-    </task>
-    <task id="LOCAL-00003" summary="php to html file transition. part 2">
-      <created>1601550112716</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1601550112716</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Bug fix.">
-      <created>1601550485910</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1601550485910</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Added sort resume in both versions.&#10;Changed 'Home Screen' image.&#10;Added JS to dynamically change the menu item on scroll-up.&#10;Added css code to customize the resume.">
-      <created>1602082160615</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1602082160615</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Added support for mobile in resume.">
-      <created>1602082540393</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1602082540393</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Changed Services.">
-      <created>1604435234668</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1604435234668</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Test function onclick">
-      <created>1604435861779</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1604435861779</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Test function onclick #2">
-      <created>1604436009145</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1604436009145</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Added Modal for test">
-      <created>1604436439771</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1604436439771</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Added Modal for test #2">
-      <created>1604436509516</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1604436509516</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Changed Modal preferences.">
-      <created>1604436956850</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1604436956865</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="First Commit." />
-    <MESSAGE value="php to html file transition." />
-    <MESSAGE value="php to html file transition. part 2" />
-    <MESSAGE value="Bug fix." />
-    <MESSAGE value="Added sort resume in both versions.&#10;Changed 'Home Screen' image.&#10;Added JS to dynamically change the menu item on scroll-up.&#10;Added css code to customize the resume." />
-    <MESSAGE value="Added support for mobile in resume." />
-    <MESSAGE value="Changed Services." />
-    <MESSAGE value="Test function onclick" />
-    <MESSAGE value="Test function onclick #2" />
-    <MESSAGE value="Added Modal for test" />
-    <MESSAGE value="Added Modal for test #2" />
-    <MESSAGE value="Changed Modal preferences." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed Modal preferences." />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601122425401">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601122425401" />
-    <state x="838" y="418" width="391" height="204" key="Github.ShareDialog" timestamp="1601549701245">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="838" y="418" width="391" height="204" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601549701245" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1601370909493">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601370909493" />
-    <state x="393" y="177" key="Vcs.Push.Dialog.v2" timestamp="1604436959220">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="393" y="177" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604436959220" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602082542953" />
-    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601549741458">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601549741458" />
   </component>
 </project>
