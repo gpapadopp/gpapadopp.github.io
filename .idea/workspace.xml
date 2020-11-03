@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="743f2a2b-1efb-40a2-bf56-510fd1d90998" name="Default Changelist" comment="Added support for mobile in resume.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gr.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +89,8 @@
       <workItem from="1601547167379" duration="3785000" />
       <workItem from="1601557917413" duration="411000" />
       <workItem from="1602071479221" duration="7828000" />
+      <workItem from="1604407209152" duration="91000" />
+      <workItem from="1604434837376" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit.">
       <created>1601549792704</created>
@@ -148,6 +150,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
