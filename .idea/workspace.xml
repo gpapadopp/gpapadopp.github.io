@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="743f2a2b-1efb-40a2-bf56-510fd1d90998" name="Default Changelist" comment="Changed Services.">
-      <change beforePath="$PROJECT_DIR$/gr.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr.html" afterDir="false" />
-    </list>
+    <list default="true" id="743f2a2b-1efb-40a2-bf56-510fd1d90998" name="Default Changelist" comment="Test function onclick" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +87,7 @@
       <workItem from="1601557917413" duration="411000" />
       <workItem from="1602071479221" duration="7828000" />
       <workItem from="1604407209152" duration="91000" />
-      <workItem from="1604434837376" duration="715000" />
+      <workItem from="1604434837376" duration="1095000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit.">
       <created>1601549792704</created>
@@ -140,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604435234668</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Test function onclick">
+      <created>1604435861779</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604435861779</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +172,8 @@
     <MESSAGE value="Added sort resume in both versions.&#10;Changed 'Home Screen' image.&#10;Added JS to dynamically change the menu item on scroll-up.&#10;Added css code to customize the resume." />
     <MESSAGE value="Added support for mobile in resume." />
     <MESSAGE value="Changed Services." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed Services." />
+    <MESSAGE value="Test function onclick" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test function onclick" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601122425401">
@@ -182,10 +188,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601370909493" />
-    <state x="393" y="177" key="Vcs.Push.Dialog.v2" timestamp="1604435249334">
+    <state x="393" y="177" key="Vcs.Push.Dialog.v2" timestamp="1604435865174">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="393" y="177" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604435249334" />
+    <state x="393" y="177" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604435865174" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602082542953" />
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601549741458">
       <screen x="0" y="0" width="1920" height="1040" />
