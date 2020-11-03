@@ -146,8 +146,8 @@
                         <div class="col-2 ic-lft">
                             <span class="fas fa-mobile-alt"></span>
                         </div>
-                        <div class="col-10">
-                            <h6>Fermentum adipiscing </h6>
+                        <div class="col-10" onclick="open_modal_esr_app()">
+                            <h6>European School Radio Android App</h6>
                         </div>
                     </div>
                 </li>
@@ -274,6 +274,11 @@
     $(document).on('click', 'ul li', function (){
         $(this).addClass('active').siblings().removeClass('active')
     })
+</script>
+<script>
+    function open_modal_esr_app() {
+        console.add("this works");
+    }
 </script>
 
 </body>
