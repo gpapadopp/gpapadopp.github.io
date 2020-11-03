@@ -205,14 +205,13 @@
         <h4 class="main_hd_internal">Αυτός ήταν ο κύριος λόγος που αποφάσισε να ασχοληθεί με το European School Radio. Από τον Απρίλιο του 2019 είναι μέλος της επιστημονικής εταιρείας “Διαθεματικό Διαπολιτισμικό Ραδιόφωνο της Εκπαιδευτικής Κοινότητας με διακριτό τίτλο European School Radio”, όπου και ασχολείται κυρίως με το τεχνικό κομμάτι.</h4>
     </section>
     <!-- //about -->
-    <!-- services -->
-
-    <div id="myModal" class="modal">
+    <!-- Modal Section -->
+    <div id="esr_modal" class="modal">
 
         <!-- Modal content -->
         <div class="modal-content">
             <div class="modal-header">
-                <span class="close">&times;</span>
+                <span class="close">x</span>
                 <h2>Modal Header</h2>
             </div>
             <div class="modal-body">
@@ -225,7 +224,8 @@
         </div>
 
     </div>
-
+    <!-- //Modal Section -->
+    <!-- services -->
     <section class="services" id="services">
         <div class="container">
             <h3 class="w3_head mb-4 text-left"> Έργα</h3>
@@ -236,7 +236,7 @@
                         <div class="col-2 ic-lft">
                             <span class="fas fa-mobile-alt"></span>
                         </div>
-                        <div class="col-10" id="myBtn" onclick="open_modal_esr_app()">
+                        <div class="col-10" id="open_esr_app_modal" onclick="open_modal_esr_app()">
                             <h6>European School Radio Android App</h6>
                         </div>
                     </div>
@@ -368,10 +368,10 @@
 
 <script>
     // Get the modal
-    var modal = document.getElementById("myModal");
+    var modal = document.getElementById("esr_modal");
 
     // Get the button that opens the modal
-    var btn = document.getElementById("myBtn");
+    var btn = document.getElementById("open_esr_app_modal");
 
     // Get the <span> element that closes the modal
     var span = document.getElementsByClassName("close")[0];
