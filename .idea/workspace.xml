@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Customize text.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Final Version of Under-Construction Home Page." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +65,7 @@
       <workItem from="1604488212025" duration="1276000" />
       <workItem from="1604493099958" duration="1249000" />
       <workItem from="1604519396615" duration="1730000" />
-      <workItem from="1604522869099" duration="3191000" />
+      <workItem from="1604522869099" duration="3508000" />
     </task>
     <task id="LOCAL-00001" summary="Changed theme.">
       <created>1604445300187</created>
@@ -190,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604525725427</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Final Version of Under-Construction Home Page.">
+      <created>1604526886744</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604526886744</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,20 +231,25 @@
     <MESSAGE value="Changed background images." />
     <MESSAGE value="Changed images." />
     <MESSAGE value="Customize text." />
-    <option name="LAST_COMMIT_MESSAGE" value="Customize text." />
+    <MESSAGE value="Final Version of Under-Construction Home Page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Version of Under-Construction Home Page." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604526843950" />
     <state x="462" y="155" key="FileChooserDialogImpl" timestamp="1604525675278">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="155" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604525675278" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604525734715">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604526889499">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604525734715" />
-    <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1604525973219">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604526889499" />
+    <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1604526816395">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1604525973219" />
+    <state x="390" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1604526816395" />
   </component>
 </project>
