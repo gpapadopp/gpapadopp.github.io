@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Changed links.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Changed First project in portfolio." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +62,7 @@
       <updated>1604443681263</updated>
       <workItem from="1604443683073" duration="829000" />
       <workItem from="1604444996592" duration="4011000" />
-      <workItem from="1604488212025" duration="688000" />
+      <workItem from="1604488212025" duration="1031000" />
     </task>
     <task id="LOCAL-00001" summary="Changed theme.">
       <created>1604445300187</created>
@@ -130,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604449393426</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Changed First project in portfolio.">
+      <created>1604489221426</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604489221426</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +164,8 @@
     <MESSAGE value="Fixed typo error." />
     <MESSAGE value="Fixed typo error #2." />
     <MESSAGE value="Changed links." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed links." />
+    <MESSAGE value="Changed First project in portfolio." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed First project in portfolio." />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604449397127">
