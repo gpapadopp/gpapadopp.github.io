@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added fontawesome support #4.">
-      <change afterPath="$PROJECT_DIR$/img/facebook-messenger.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added fontawesome support #5.">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +69,7 @@
       <workItem from="1604488212025" duration="1276000" />
       <workItem from="1604493099958" duration="1249000" />
       <workItem from="1604519396615" duration="1730000" />
-      <workItem from="1604522869099" duration="5103000" />
+      <workItem from="1604522869099" duration="5701000" />
     </task>
     <task id="LOCAL-00001" summary="Changed theme.">
       <created>1604445300187</created>
@@ -255,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604528104048</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Added fontawesome support #5.">
+      <created>1604528584474</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1604528584474</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,7 +281,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Changed theme." />
     <MESSAGE value="Changed top-nav items." />
     <MESSAGE value="Resize photo" />
     <MESSAGE value="Changed basic info." />
@@ -301,7 +305,8 @@
     <MESSAGE value="Added fontawesome support #2." />
     <MESSAGE value="Added fontawesome support #3." />
     <MESSAGE value="Added fontawesome support #4." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added fontawesome support #4." />
+    <MESSAGE value="Added fontawesome support #5." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added fontawesome support #5." />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
@@ -312,10 +317,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="155" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604525675278" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604528110100">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604528590154">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604528110100" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604528590154" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
