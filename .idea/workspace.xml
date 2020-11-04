@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Removed useless li from top-nav.">
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Changed links.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -64,7 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604443681263</updated>
       <workItem from="1604443683073" duration="829000" />
-      <workItem from="1604444996592" duration="3425000" />
+      <workItem from="1604444996592" duration="4011000" />
+      <workItem from="1604488212025" duration="688000" />
     </task>
     <task id="LOCAL-00001" summary="Changed theme.">
       <created>1604445300187</created>
@@ -101,7 +102,35 @@
       <option name="project" value="LOCAL" />
       <updated>1604447388848</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Changed basic information in Skills.">
+      <created>1604449116328</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604449116328</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed typo error.">
+      <created>1604449229415</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604449229415</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed typo error #2.">
+      <created>1604449268963</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604449268963</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Changed links.">
+      <created>1604449393426</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604449393426</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +146,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -126,12 +156,16 @@
     <MESSAGE value="Resize photo" />
     <MESSAGE value="Changed basic info." />
     <MESSAGE value="Removed useless li from top-nav." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed useless li from top-nav." />
+    <MESSAGE value="Changed basic information in Skills." />
+    <MESSAGE value="Fixed typo error." />
+    <MESSAGE value="Fixed typo error #2." />
+    <MESSAGE value="Changed links." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed links." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604447391076">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604449397127">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604447391076" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604449397127" />
   </component>
 </project>
