@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added font awesome folder #2.">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added fontawesome support #2." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -67,7 +67,7 @@
       <workItem from="1604488212025" duration="1276000" />
       <workItem from="1604493099958" duration="1249000" />
       <workItem from="1604519396615" duration="1730000" />
-      <workItem from="1604522869099" duration="3796000" />
+      <workItem from="1604522869099" duration="4155000" />
     </task>
     <task id="LOCAL-00001" summary="Changed theme.">
       <created>1604445300187</created>
@@ -209,7 +209,28 @@
       <option name="project" value="LOCAL" />
       <updated>1604527137722</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Changed font size.">
+      <created>1604527239514</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1604527239514</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added fontawesome support.">
+      <created>1604527526030</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1604527526030</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added fontawesome support #2.">
+      <created>1604527565836</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1604527565836</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +271,10 @@
     <MESSAGE value="Final Version of Under-Construction Home Page." />
     <MESSAGE value="Added font awesome folder." />
     <MESSAGE value="Added font awesome folder #2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added font awesome folder #2." />
+    <MESSAGE value="Changed font size." />
+    <MESSAGE value="Added fontawesome support." />
+    <MESSAGE value="Added fontawesome support #2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added fontawesome support #2." />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
@@ -261,17 +285,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="155" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604525675278" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604527144399">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604527567431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604527144399" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604527567431" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.728@0.0.1366.728" timestamp="1604527065542" />
-    <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1604526816395">
+    <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1604527310449">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1604526816395" />
+    <state x="390" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1604527310449" />
   </component>
 </project>
