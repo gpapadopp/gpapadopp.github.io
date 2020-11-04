@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Final Version of Under-Construction Home Page." />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added font awesome folder #2.">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +67,7 @@
       <workItem from="1604488212025" duration="1276000" />
       <workItem from="1604493099958" duration="1249000" />
       <workItem from="1604519396615" duration="1730000" />
-      <workItem from="1604522869099" duration="3508000" />
+      <workItem from="1604522869099" duration="3796000" />
     </task>
     <task id="LOCAL-00001" summary="Changed theme.">
       <created>1604445300187</created>
@@ -193,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604526886744</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Added font awesome folder #2.">
+      <created>1604527097275</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1604527097275</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added font awesome folder #2.">
+      <created>1604527137722</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1604527137722</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +248,9 @@
     <MESSAGE value="Changed images." />
     <MESSAGE value="Customize text." />
     <MESSAGE value="Final Version of Under-Construction Home Page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Version of Under-Construction Home Page." />
+    <MESSAGE value="Added font awesome folder." />
+    <MESSAGE value="Added font awesome folder #2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added font awesome folder #2." />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
@@ -243,10 +261,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="155" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604525675278" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604526889499">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604527144399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604526889499" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604527144399" />
+    <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.728@0.0.1366.728" timestamp="1604527065542" />
     <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1604526816395">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
