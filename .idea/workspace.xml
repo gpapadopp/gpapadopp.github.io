@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added work experience.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added github graph.">
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/assets/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +80,7 @@
       <workItem from="1605034368280" duration="1417000" />
       <workItem from="1605035923607" duration="499000" />
       <workItem from="1605092523165" duration="5817000" />
+      <workItem from="1605118286378" duration="353000" />
     </task>
     <task id="LOCAL-00001" summary="Changed theme.">
       <created>1604445300187</created>
@@ -375,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605107270762</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Added github graph.">
+      <created>1605118517757</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1605118517757</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,7 +404,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Customize text." />
     <MESSAGE value="Final Version of Under-Construction Home Page." />
     <MESSAGE value="Added font awesome folder." />
     <MESSAGE value="Added font awesome folder #2." />
@@ -421,7 +428,8 @@
     <MESSAGE value="Removed useless tags." />
     <MESSAGE value="Removed useless items from seminars." />
     <MESSAGE value="Added work experience." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added work experience." />
+    <MESSAGE value="Added github graph." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added github graph." />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
@@ -432,10 +440,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="155" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605035309539" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605107274611">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605118521997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605107274611" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605118521997" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
