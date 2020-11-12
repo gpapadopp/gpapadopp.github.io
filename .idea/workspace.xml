@@ -19,7 +19,75 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added new file for theme." />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added new theme.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/css/flex-slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/css/fontawesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/css/lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/css/owl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/css/templatemo-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/fonts/Flaticon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/fonts/flexslider-icon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/fonts/flexslider-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/fonts/flexslider-icon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/fonts/flexslider-icon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/fonts/slick.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/fonts/slick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/fonts/slick.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/fonts/slick.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/author-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/first-main-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/first-white-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/fourth-main-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/fourth-white-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/left-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/page-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/portfolio-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/portfolio-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/portfolio-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/portfolio-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/portfolio-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/portfolio-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/right-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/second-main-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/second-white-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/third-main-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/images/third-white-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/js/isotope.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/js/lightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/assets/js/owl-carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/prepros-6.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/jquery/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/jquery/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/vendor/jquery/jquery.slim.min.map" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,21 +147,7 @@
       <workItem from="1605035923607" duration="499000" />
       <workItem from="1605092523165" duration="5817000" />
       <workItem from="1605118286378" duration="1209000" />
-      <workItem from="1605178895684" duration="9193000" />
-    </task>
-    <task id="LOCAL-00010" summary="Changed First project in portfolio.">
-      <created>1604489221426</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1604489221426</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Changed ESR App picture size.">
-      <created>1604489316825</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1604489316825</updated>
+      <workItem from="1605178895684" duration="10143000" />
     </task>
     <task id="LOCAL-00012" summary="Removed button">
       <created>1604497419856</created>
@@ -424,7 +478,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605189370016</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Removed all files from under-construction.">
+      <created>1605189781569</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1605189781579</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Added new theme.">
+      <created>1605189934330</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1605189934331</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,8 +513,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Added removed closing tag." />
-    <MESSAGE value="Added comment." />
     <MESSAGE value="New photos for esr app." />
     <MESSAGE value="Removed useless articles on portfolio." />
     <MESSAGE value="Added items on skills." />
@@ -470,7 +536,9 @@
     <MESSAGE value="Added programming language to ESR Web." />
     <MESSAGE value="Changed main theme." />
     <MESSAGE value="Added new file for theme." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new file for theme." />
+    <MESSAGE value="Removed all files from under-construction." />
+    <MESSAGE value="Added new theme." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new theme." />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
@@ -481,10 +549,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="155" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605035309539" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605189375348">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605189936202">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605189375348" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605189936202" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
