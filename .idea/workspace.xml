@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Changed div class in ESR Web project.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/under-construction-site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Removed margin-top on bootstrap.css." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +79,7 @@
       <workItem from="1605035923607" duration="499000" />
       <workItem from="1605092523165" duration="5817000" />
       <workItem from="1605118286378" duration="1209000" />
-      <workItem from="1605178895684" duration="2943000" />
+      <workItem from="1605178895684" duration="3274000" />
     </task>
     <task id="LOCAL-00001" summary="Changed theme.">
       <created>1604445300187</created>
@@ -413,7 +410,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605181734453</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Added programming languages to all projects.&#10;Moved 50px down the project images.">
+      <created>1605182614099</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1605182614099</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Removed margin-top on bootstrap.css.">
+      <created>1605182684632</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1605182684632</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,8 +445,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Added fontawesome support." />
-    <MESSAGE value="Added fontawesome support #2." />
     <MESSAGE value="Added fontawesome support #3." />
     <MESSAGE value="Added fontawesome support #4." />
     <MESSAGE value="Added fontawesome support #5." />
@@ -459,7 +468,9 @@
     <MESSAGE value="Added ESR Web project." />
     <MESSAGE value="Added programming languages under ESR web project." />
     <MESSAGE value="Changed div class in ESR Web project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed div class in ESR Web project." />
+    <MESSAGE value="Added programming languages to all projects.&#10;Moved 50px down the project images." />
+    <MESSAGE value="Removed margin-top on bootstrap.css." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed margin-top on bootstrap.css." />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
@@ -470,17 +481,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="155" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605035309539" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605181739102">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605182687825">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605181739102" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605182687825" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.728@0.0.1366.728" timestamp="1604527065542" />
-    <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1604527310449">
+    <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1605182462707">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1604527310449" />
+    <state x="390" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1605182462707" />
   </component>
 </project>
