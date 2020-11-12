@@ -140,7 +140,6 @@ html {
     height: 140px;
     border-radius: 50%;
     text-align: center;
-    margin-left:23%;
 }
 
 .menu .author-content {
@@ -767,7 +766,6 @@ section.contact-me {
     .menu .image img {
         width: 120px;
         height: 120px;
-        margin-left: 23%;
     }
 
     .menu .author-content {
