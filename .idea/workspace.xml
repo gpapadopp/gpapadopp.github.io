@@ -19,8 +19,72 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added programming language to ESR Web.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Changed main theme.">
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/css/flex-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/css/owl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/css/templatemo-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/fonts/flexslider-icon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/fonts/flexslider-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/fonts/flexslider-icon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/fonts/flexslider-icon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/author-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/first-main-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/first-white-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/fourth-main-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/fourth-white-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/left-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/page-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/portfolio-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/portfolio-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/portfolio-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/portfolio-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/portfolio-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/portfolio-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/right-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/second-main-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/second-white-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/third-main-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/third-white-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/js/isotope.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/js/owl-carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/prepros-6.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/vendor/jquery/jquery.slim.min.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,14 +145,7 @@
       <workItem from="1605035923607" duration="499000" />
       <workItem from="1605092523165" duration="5817000" />
       <workItem from="1605118286378" duration="1209000" />
-      <workItem from="1605178895684" duration="8563000" />
-    </task>
-    <task id="LOCAL-00008" summary="Fixed typo error #2.">
-      <created>1604449268963</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1604449268963</updated>
+      <workItem from="1605178895684" duration="8893000" />
     </task>
     <task id="LOCAL-00009" summary="Changed links.">
       <created>1604449393426</created>
@@ -426,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605187930372</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Changed main theme.">
+      <created>1605189233259</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1605189233259</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,7 +511,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Removed progress bars from skills." />
     <MESSAGE value="Removed images. Changed image location." />
     <MESSAGE value="Added removed closing tag." />
     <MESSAGE value="Added comment." />
@@ -472,7 +535,8 @@
     <MESSAGE value="Added dropdown menu to change languages." />
     <MESSAGE value="Changed language menu style." />
     <MESSAGE value="Added programming language to ESR Web." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added programming language to ESR Web." />
+    <MESSAGE value="Changed main theme." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed main theme." />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
@@ -483,10 +547,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="155" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605035309539" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605187932244">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605189241036">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605187932244" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605189241036" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
