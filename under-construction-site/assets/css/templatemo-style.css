@@ -767,6 +767,7 @@ section.contact-me {
     .menu .image img {
         width: 120px;
         height: 120px;
+        margin-left: 23%;
     }
 
     .menu .author-content {
