@@ -1,0 +1,15 @@
+<!-- Code for aside "Conferences" tab. -->
+
+
+
+<!--                <aside class="list conferences aside section">-->
+<!--                    <div class="section-inner shadow-sm rounded">-->
+<!--                        <h2 class="heading">Conferences</h2>-->
+<!--                        <div class="content">-->
+<!--                            <ul class="list-unstyled">-->
+<!--                                <li><i class="far fa-calendar-alt"></i> <a href="#" target="_blank">WWDC 2020</a> (San Francisco)</li>-->
+<!--                                <li><i class="far fa-calendar-alt"></i> <a href="#">Hive</a> (Seattle)</li>-->
+<!--                            </ul>-->
+<!--                        </div>&lt;!&ndash;//content&ndash;&gt;-->
+<!--                    </div>&lt;!&ndash;//section-inner&ndash;&gt;-->
+<!--                </aside>&lt;!&ndash;//section&ndash;&gt;-->
