@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added education.">
-      <change afterPath="$PROJECT_DIR$/under-construction-site/conferences.txt" afterDir="false" />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Removed testimonials and conferences tab from aside.">
       <change beforePath="$PROJECT_DIR$/under-construction-site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,14 +81,7 @@
       <workItem from="1605035923607" duration="499000" />
       <workItem from="1605092523165" duration="5817000" />
       <workItem from="1605118286378" duration="1209000" />
-      <workItem from="1605178895684" duration="4973000" />
-    </task>
-    <task id="LOCAL-00004" summary="Changed basic info.">
-      <created>1604447257482</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1604447257482</updated>
+      <workItem from="1605178895684" duration="5823000" />
     </task>
     <task id="LOCAL-00005" summary="Removed useless li from top-nav.">
       <created>1604447388848</created>
@@ -427,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605184567489</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Removed testimonials and conferences tab from aside.">
+      <created>1605184890537</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1605184890537</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,7 +447,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Added fontawesome support #6." />
     <MESSAGE value="Added fontawesome support #7." />
     <MESSAGE value="Changed font-awesome icon for github." />
     <MESSAGE value="Changed second project icon." />
@@ -473,7 +471,8 @@
     <MESSAGE value="Removed br tags." />
     <MESSAGE value="Removed some side sections. &#10;Added language." />
     <MESSAGE value="Added education." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added education." />
+    <MESSAGE value="Removed testimonials and conferences tab from aside." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed testimonials and conferences tab from aside." />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
@@ -484,10 +483,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="155" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605035309539" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605184569184">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605184893189">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605184569184" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605184893189" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
