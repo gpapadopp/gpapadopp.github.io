@@ -8,5 +8,6 @@
     <orderEntry type="library" name="iconify" level="application" />
     <orderEntry type="library" name="baea3e5b9d" level="application" />
     <orderEntry type="library" name="mustache" level="application" />
+    <orderEntry type="library" name="octicons" level="application" />
   </component>
 </module>
