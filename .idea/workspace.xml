@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Lovely Idea.">
-      <change afterPath="$PROJECT_DIR$/under-construction-site/email.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/under-construction-site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/index.html" afterDir="false" />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/under-construction-site/email.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,14 +82,7 @@
       <workItem from="1605092523165" duration="5817000" />
       <workItem from="1605118286378" duration="1209000" />
       <workItem from="1605178895684" duration="14437000" />
-      <workItem from="1605197113573" duration="418000" />
-    </task>
-    <task id="LOCAL-00023" summary="Added fontawesome support #2.">
-      <created>1604527565836</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1604527565836</updated>
+      <workItem from="1605197113573" duration="798000" />
     </task>
     <task id="LOCAL-00024" summary="Added fontawesome support #3.">
       <created>1604527750043</created>
@@ -429,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605195731836</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="test">
+      <created>1605197663234</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1605197663281</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,7 +448,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Changed div class in ESR Web project." />
     <MESSAGE value="Added programming languages to all projects.&#10;Moved 50px down the project images." />
     <MESSAGE value="Removed margin-top on bootstrap.css." />
     <MESSAGE value="Removed br tags." />
@@ -475,7 +472,8 @@
     <MESSAGE value="-" />
     <MESSAGE value="Removed" />
     <MESSAGE value="Lovely Idea." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lovely Idea." />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
@@ -490,10 +488,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="155" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605035309539" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605195740372">
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1605197530040">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605195740372" />
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605197530040" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605197669639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605197669639" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
