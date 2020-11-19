@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added useful aside.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/under-construction-site/esr-app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/esr-app/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added text to esr-app page." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,14 +91,7 @@
       <workItem from="1605197113573" duration="881000" />
       <workItem from="1605206240974" duration="2617000" />
       <workItem from="1605440031699" duration="30000" />
-      <workItem from="1605783314055" duration="2044000" />
-    </task>
-    <task id="LOCAL-00035" summary="Added comment.">
-      <created>1605035728858</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1605035728858</updated>
+      <workItem from="1605783314055" duration="2347000" />
     </task>
     <task id="LOCAL-00036" summary="New photos for esr app.">
       <created>1605036416461</created>
@@ -439,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605784617958</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Added text to esr-app page.">
+      <created>1605787442595</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1605787442595</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,7 +457,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Removed all files from under-construction." />
     <MESSAGE value="Added new theme." />
     <MESSAGE value="--" />
     <MESSAGE value="---" />
@@ -485,7 +481,8 @@
     <MESSAGE value="Added folder for esr-app project." />
     <MESSAGE value="Deleted unused content." />
     <MESSAGE value="Added useful aside." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added useful aside." />
+    <MESSAGE value="Added text to esr-app page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added text to esr-app page." />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
@@ -504,10 +501,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605197530040" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605784651803">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605787445522">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605784651803" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605787445522" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
