@@ -19,22 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added carousel to esr-app project page.">
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/screenshots/english/1-menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/screenshots/english/2-listen-live.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/screenshots/english/3-next-shows.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/screenshots/english/4-schedule.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/screenshots/english/5-podcasts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/screenshots/english/6-news.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/screenshots/english/7-archive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/screenshots/greek/1-menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/screenshots/greek/2-listen-live.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/screenshots/greek/3-next-shows.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/screenshots/greek/4-schedule.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/screenshots/greek/5-podcasts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/screenshots/greek/6-news.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/screenshots/greek/7-archive.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Carousel fix.">
       <change beforePath="$PROJECT_DIR$/under-construction-site/esr-app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/esr-app/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,21 +97,7 @@
       <workItem from="1605206240974" duration="2617000" />
       <workItem from="1605440031699" duration="30000" />
       <workItem from="1605783314055" duration="5046000" />
-      <workItem from="1605792139739" duration="2089000" />
-    </task>
-    <task id="LOCAL-00040" summary="Removed useless tags.">
-      <created>1605100518298</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1605100518298</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Removed useless items from seminars.">
-      <created>1605105748237</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1605105748237</updated>
+      <workItem from="1605792139739" duration="2457000" />
     </task>
     <task id="LOCAL-00042" summary="Added work experience.">
       <created>1605107270762</created>
@@ -457,7 +428,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605792493001</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Added screenshots from esr-app to carousel (English).">
+      <created>1605796757902</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1605796757902</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Carousel fix.">
+      <created>1605797013732</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1605797013732</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,8 +463,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="image fix" />
-    <MESSAGE value="image phone fix" />
     <MESSAGE value="image phone fix1" />
     <MESSAGE value="changed icon" />
     <MESSAGE value="change icon style." />
@@ -503,7 +486,9 @@
     <MESSAGE value="Added basic information of esr-app project." />
     <MESSAGE value="Added bold to some information." />
     <MESSAGE value="Added carousel to esr-app project page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added carousel to esr-app project page." />
+    <MESSAGE value="Added screenshots from esr-app to carousel (English)." />
+    <MESSAGE value="Carousel fix." />
+    <option name="LAST_COMMIT_MESSAGE" value="Carousel fix." />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
@@ -522,10 +507,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605197530040" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605792508121">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605797018151">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605792508121" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605797018151" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
