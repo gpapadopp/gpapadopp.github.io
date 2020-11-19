@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added basic information of esr-app project." />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added bold to some information.">
+      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/carousel_js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/esr-app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/esr-app/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +59,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/under-construction-site/assets/images/projects" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -91,14 +97,8 @@
       <workItem from="1605197113573" duration="881000" />
       <workItem from="1605206240974" duration="2617000" />
       <workItem from="1605440031699" duration="30000" />
-      <workItem from="1605783314055" duration="4672000" />
-    </task>
-    <task id="LOCAL-00038" summary="Added items on skills.">
-      <created>1605093515499</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1605093515499</updated>
+      <workItem from="1605783314055" duration="5046000" />
+      <workItem from="1605792139739" duration="316000" />
     </task>
     <task id="LOCAL-00039" summary="Added first seminar content.">
       <created>1605100275021</created>
@@ -436,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605790542682</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Added bold to some information.">
+      <created>1605790919277</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1605790919277</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,7 +464,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="---" />
     <MESSAGE value="photo" />
     <MESSAGE value="image fix" />
     <MESSAGE value="image phone fix" />
@@ -482,7 +488,8 @@
     <MESSAGE value="Added text to esr-app page." />
     <MESSAGE value="Remove useless &lt;br&gt;s." />
     <MESSAGE value="Added basic information of esr-app project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added basic information of esr-app project." />
+    <MESSAGE value="Added bold to some information." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added bold to some information." />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
@@ -501,10 +508,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605197530040" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605790568342">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605790923649">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605790568342" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605790923649" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
