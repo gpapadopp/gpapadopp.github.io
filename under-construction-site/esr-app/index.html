@@ -25,8 +25,8 @@
     <link rel="stylesheet" href="../assets/plugins/github-activity/github-activity-0.1.5.min.css">
 
     <!--  Carousel CSS  -->
-    <link rel="stylesheet" href="carousel.css">
-    <script defer src="carousel_js.js"></script>
+    <link rel="stylesheet" href="ism/css/my-slider.css">
+    <script src="ism/js/ism-2.2.min.js"></script>
 
     <!-- Theme CSS -->
     <link id="theme-style" rel="stylesheet" href="../assets/css/styles.css">
@@ -68,70 +68,32 @@
                 <div class="section-inner shadow-sm rounded">
                     <h2 class="heading text-center">European School Radio - Android Application</h2>
                     <div class="content">
-
-                        <!-- Slideshow container -->
-                        <div class="slideshow-container">
-
-                            <!-- Full-width images with number and caption text -->
-                            <div class="mySlides fade">
-                                <div class="numbertext">1 / 7</div>
-                                <img src="screenshots/english/1-menu.png" style="width:25%; height:auto;">
-                                <div class="text">Menu</div>
-                            </div>
-
-                            <div class="mySlides fade">
-                                <div class="numbertext">2 / 7</div>
-                                <img src="screenshots/english/2-listen-live.png" style="width:25%; height:auto;">
-                                <div class="text">Listen Live</div>
-                            </div>
-
-                            <div class="mySlides fade">
-                                <div class="numbertext">3 / 7</div>
-                                <img src="screenshots/english/3-next-shows.png" style="width:25%; height:auto;">
-                                <div class="text">Next Shows</div>
-                            </div>
-
-                            <div class="mySlides fade">
-                                <div class="numbertext">4 / 7</div>
-                                <img src="screenshots/english/4-schedule.png" style="width:25%; height:auto;">
-                                <div class="text">Schedule</div>
-                            </div>
-
-                            <div class="mySlides fade">
-                                <div class="numbertext">5 / 7</div>
-                                <img src="screenshots/english/5-podcasts.png" style="width:25%; height:auto;">
-                                <div class="text">Podcasts</div>
-                            </div>
-
-                            <div class="mySlides fade">
-                                <div class="numbertext">6 / 7</div>
-                                <img src="screenshots/english/6-news.png" style="width:25%; height:auto;">
-                                <div class="text">News</div>
-                            </div>
-
-                            <div class="mySlides fade">
-                                <div class="numbertext">7 / 7</div>
-                                <img src="screenshots/english/7-archive.png" style="width:25%; height:auto;">
-                                <div class="text">Archive</div>
-                            </div>
-
-                            <!-- Next and previous buttons -->
-                            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-                            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                        <div class="ism-slider" id="my-slider" style="margin-left:50%; transform:translateX(-50%)">
+                            <ol>
+                                <li>
+                                    <img src="ism/image/slides/_u/1605818485668_840094.png">
+                                </li>
+                                <li>
+                                    <img src="ism/image/slides/_u/1605818498443_89695.png">
+                                </li>
+                                <li>
+                                    <img src="ism/image/slides/_u/1605818500040_779515.png">
+                                </li>
+                                <li>
+                                    <img src="ism/image/slides/_u/1605818500357_710805.png">
+                                </li>
+                                <li>
+                                    <img src="ism/image/slides/_u/1605818500871_474721.png">
+                                </li>
+                                <li>
+                                    <img src="ism/image/slides/_u/1605818501647_381274.png">
+                                </li>
+                                <li>
+                                    <img src="ism/image/slides/_u/1605818501994_325459.png">
+                                </li>
+                            </ol>
                         </div>
                         <br>
-
-                        <!-- The dots/circles -->
-                        <div style="text-align:center">
-                            <span class="dot" onclick="currentSlide(1)"></span>
-                            <span class="dot" onclick="currentSlide(2)"></span>
-                            <span class="dot" onclick="currentSlide(3)"></span>
-                            <span class="dot" onclick="currentSlide(4)"></span>
-                            <span class="dot" onclick="currentSlide(5)"></span>
-                            <span class="dot" onclick="currentSlide(6)"></span>
-                            <span class="dot" onclick="currentSlide(7)"></span>
-                        </div>
-
                         <p>The European School Radio application was created in order to facilitate ordinary users to access and interact with the educational material available in the web version of European School Radio.</p>
                         <p>The application was created with Android Studio in Java programming language.</p>
                         <p>The main features in this version of the application (2.x) are the following:
