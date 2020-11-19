@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Changed project icons.">
-      <change beforePath="$PROJECT_DIR$/under-construction-site/gr.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/gr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/under-construction-site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/index.html" afterDir="false" />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Changed links.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,14 +91,8 @@
       <workItem from="1605118286378" duration="1209000" />
       <workItem from="1605178895684" duration="14437000" />
       <workItem from="1605197113573" duration="881000" />
-      <workItem from="1605206240974" duration="2374000" />
-    </task>
-    <task id="LOCAL-00031" summary="Changed second project icon.">
-      <created>1605034576207</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1605034576207</updated>
+      <workItem from="1605206240974" duration="2617000" />
+      <workItem from="1605440031699" duration="30000" />
     </task>
     <task id="LOCAL-00032" summary="Removed progress bars from skills.">
       <created>1605034902005</created>
@@ -437,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605208490832</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Changed links.">
+      <created>1605208659187</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1605208659187</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,7 +458,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Changed language menu style." />
     <MESSAGE value="Added programming language to ESR Web." />
     <MESSAGE value="Changed main theme." />
     <MESSAGE value="Added new file for theme." />
@@ -483,7 +482,8 @@
     <MESSAGE value="Changed see more." />
     <MESSAGE value="Added some stuff." />
     <MESSAGE value="Changed project icons." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed project icons." />
+    <MESSAGE value="Changed links." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed links." />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
@@ -502,10 +502,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605197530040" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605208493615">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605208661344">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605208493615" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605208661344" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
