@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Carousel fix.">
-      <change beforePath="$PROJECT_DIR$/under-construction-site/esr-app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/esr-app/index.html" afterDir="false" />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Changed carousel settings.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,21 +97,7 @@
       <workItem from="1605206240974" duration="2617000" />
       <workItem from="1605440031699" duration="30000" />
       <workItem from="1605783314055" duration="5046000" />
-      <workItem from="1605792139739" duration="2457000" />
-    </task>
-    <task id="LOCAL-00042" summary="Added work experience.">
-      <created>1605107270762</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1605107270762</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Added github graph.">
-      <created>1605118517757</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1605118517757</updated>
+      <workItem from="1605792139739" duration="3171000" />
     </task>
     <task id="LOCAL-00044" summary="Added github feed.">
       <created>1605118937156</created>
@@ -442,7 +428,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605797013732</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Carousel width fix.">
+      <created>1605797128754</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1605797128754</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Changed carousel settings.">
+      <created>1605797362256</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1605797362256</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -463,8 +463,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="image phone fix1" />
-    <MESSAGE value="changed icon" />
     <MESSAGE value="change icon style." />
     <MESSAGE value="-" />
     <MESSAGE value="Removed" />
@@ -488,7 +486,9 @@
     <MESSAGE value="Added carousel to esr-app project page." />
     <MESSAGE value="Added screenshots from esr-app to carousel (English)." />
     <MESSAGE value="Carousel fix." />
-    <option name="LAST_COMMIT_MESSAGE" value="Carousel fix." />
+    <MESSAGE value="Carousel width fix." />
+    <MESSAGE value="Changed carousel settings." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed carousel settings." />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
@@ -507,10 +507,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605197530040" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605797018151">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605797365736">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605797018151" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605797365736" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
