@@ -19,12 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Carousel fix.">
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/gr.html" afterDir="false" />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added and connected full functioning page for ESR App project.">
+      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/ism/css/my-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/ism/js/ism-2.2.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/under-construction-site/esr-app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/esr-app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/under-construction-site/gr.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/gr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/under-construction-site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/under-construction-site/assets/images/projects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/under-construction-site/esr-web" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -72,6 +70,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\georg\PhpstormProjects\gpapadopp.github.io\under-construction-site\esr-web" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\georg\PhpstormProjects\gpapadopp.github.io\under-construction-site\assets\images\projects" />
     </key>
@@ -108,14 +109,7 @@
       <workItem from="1605783314055" duration="5046000" />
       <workItem from="1605792139739" duration="9647000" />
       <workItem from="1605898907154" duration="51000" />
-      <workItem from="1606154550753" duration="2881000" />
-    </task>
-    <task id="LOCAL-00049" summary="Removed margin-top on bootstrap.css.">
-      <created>1605182684632</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1605182684632</updated>
+      <workItem from="1606154550753" duration="3912000" />
     </task>
     <task id="LOCAL-00050" summary="Removed br tags.">
       <created>1605182777325</created>
@@ -453,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605819648297</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Added and connected full functioning page for ESR App project.">
+      <created>1606157780551</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1606157780551</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +475,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="test" />
     <MESSAGE value="remove github." />
     <MESSAGE value="Added greek." />
     <MESSAGE value="Changed title in greek." />
@@ -499,7 +499,8 @@
     <MESSAGE value="Fix carousel auto play final." />
     <MESSAGE value="Auto change image in carousel." />
     <MESSAGE value="Carousel fix." />
-    <option name="LAST_COMMIT_MESSAGE" value="Carousel fix." />
+    <MESSAGE value="Added and connected full functioning page for ESR App project." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added and connected full functioning page for ESR App project." />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605817920983">
@@ -522,10 +523,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605197530040" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605819650707">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606157784848">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605819650707" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606157784848" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
