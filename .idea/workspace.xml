@@ -19,8 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Fix carousel.">
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Carousel fix.">
+      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-app/gr.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/esr-app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/esr-app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/gr.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/gr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +37,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -72,6 +76,11 @@
       <recent name="C:\Users\georg\PhpstormProjects\gpapadopp.github.io\under-construction-site\assets\images\projects" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="klfjghdj" type="FirefoxRemoteDebugType">
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,35 +106,9 @@
       <workItem from="1605206240974" duration="2617000" />
       <workItem from="1605440031699" duration="30000" />
       <workItem from="1605783314055" duration="5046000" />
-      <workItem from="1605792139739" duration="4010000" />
-    </task>
-    <task id="LOCAL-00045" summary="Added ESR Web project.">
-      <created>1605180071532</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1605180071532</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Added programming languages under ESR web project.">
-      <created>1605180329250</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1605180329250</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Changed div class in ESR Web project.">
-      <created>1605181734453</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1605181734453</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Added programming languages to all projects.&#10;Moved 50px down the project images.">
-      <created>1605182614099</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1605182614099</updated>
+      <workItem from="1605792139739" duration="9647000" />
+      <workItem from="1605898907154" duration="51000" />
+      <workItem from="1606154550753" duration="2881000" />
     </task>
     <task id="LOCAL-00049" summary="Removed margin-top on bootstrap.css.">
       <created>1605182684632</created>
@@ -442,7 +425,35 @@
       <option name="project" value="LOCAL" />
       <updated>1605797947277</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Fix carousel auto play.">
+      <created>1605802258359</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1605802258363</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Fix carousel auto play final.">
+      <created>1605802298048</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1605802298056</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Auto change image in carousel.">
+      <created>1605802544372</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1605802544372</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Carousel fix.">
+      <created>1605819648297</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1605819648297</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -463,9 +474,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="-" />
-    <MESSAGE value="Removed" />
-    <MESSAGE value="Lovely Idea." />
     <MESSAGE value="test" />
     <MESSAGE value="remove github." />
     <MESSAGE value="Added greek." />
@@ -484,13 +492,20 @@
     <MESSAGE value="Added bold to some information." />
     <MESSAGE value="Added carousel to esr-app project page." />
     <MESSAGE value="Added screenshots from esr-app to carousel (English)." />
-    <MESSAGE value="Carousel fix." />
     <MESSAGE value="Carousel width fix." />
     <MESSAGE value="Changed carousel settings." />
     <MESSAGE value="Fix carousel." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix carousel." />
+    <MESSAGE value="Fix carousel auto play." />
+    <MESSAGE value="Fix carousel auto play final." />
+    <MESSAGE value="Auto change image in carousel." />
+    <MESSAGE value="Carousel fix." />
+    <option name="LAST_COMMIT_MESSAGE" value="Carousel fix." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605817920983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1605817920983" />
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -507,10 +522,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605197530040" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605797951464">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605819650707">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605797951464" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605819650707" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
