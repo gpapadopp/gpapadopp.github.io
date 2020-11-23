@@ -19,10 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added and connected full functioning page for ESR App project.">
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/ism/css/my-slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/ism/js/ism-2.2.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Slide show update in ESR App.">
+      <change beforePath="$PROJECT_DIR$/under-construction-site/esr-app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/esr-app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/esr-app/ism/image/slides/_u/1605818485668_840094.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/esr-app/ism/image/slides/_u/1605818498443_89695.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/esr-app/ism/image/slides/_u/1605818500040_779515.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/esr-app/ism/image/slides/_u/1605818500357_710805.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/esr-app/ism/image/slides/_u/1605818500871_474721.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/esr-app/ism/image/slides/_u/1605818501647_381274.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/esr-app/ism/image/slides/_u/1605818501994_325459.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,14 +114,7 @@
       <workItem from="1605783314055" duration="5046000" />
       <workItem from="1605792139739" duration="9647000" />
       <workItem from="1605898907154" duration="51000" />
-      <workItem from="1606154550753" duration="3912000" />
-    </task>
-    <task id="LOCAL-00050" summary="Removed br tags.">
-      <created>1605182777325</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1605182777325</updated>
+      <workItem from="1606154550753" duration="4257000" />
     </task>
     <task id="LOCAL-00051" summary="Removed some side sections. &#10;Added language.">
       <created>1605184360396</created>
@@ -454,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606157780551</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Slide show update in ESR App.">
+      <created>1606159169245</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1606159169245</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,7 +480,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="remove github." />
     <MESSAGE value="Added greek." />
     <MESSAGE value="Changed title in greek." />
     <MESSAGE value="Added see more on project." />
@@ -500,7 +504,8 @@
     <MESSAGE value="Auto change image in carousel." />
     <MESSAGE value="Carousel fix." />
     <MESSAGE value="Added and connected full functioning page for ESR App project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added and connected full functioning page for ESR App project." />
+    <MESSAGE value="Slide show update in ESR App." />
+    <option name="LAST_COMMIT_MESSAGE" value="Slide show update in ESR App." />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605817920983">
@@ -523,10 +528,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605197530040" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606157784848">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606159172725">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606157784848" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606159172725" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
