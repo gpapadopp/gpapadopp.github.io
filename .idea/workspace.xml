@@ -19,25 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Slide show update in ESR App final.">
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/gr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/screenshots/english/1-main_page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/screenshots/english/2-community.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/screenshots/english/3-news.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/screenshots/english/4-schedule.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/screenshots/english/5-repository.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/screenshots/english/6-schools.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/screenshots/english/7-groups.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/screenshots/greek/1-main_page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/screenshots/greek/2-community.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/screenshots/greek/3-news.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/screenshots/greek/4-schedule.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/screenshots/greek/5-repository.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/screenshots/greek/6-schools.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/esr-web/screenshots/greek/7-groups.png" afterDir="false" />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added ESR Web platform full info page.">
+      <change afterPath="$PROJECT_DIR$/under-construction-site/invoice-program/gr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/invoice-program/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/invoice-program/screenshots/1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/under-construction-site/esr-web/ism/css/my-slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/esr-web/ism/css/my-slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/under-construction-site/gr.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/gr.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/under-construction-site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,14 +112,10 @@
       <workItem from="1605783314055" duration="5046000" />
       <workItem from="1605792139739" duration="9647000" />
       <workItem from="1605898907154" duration="51000" />
-      <workItem from="1606154550753" duration="6403000" />
-    </task>
-    <task id="LOCAL-00052" summary="Added education.">
-      <created>1605184567489</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1605184567489</updated>
+      <workItem from="1606154550753" duration="7179000" />
+      <workItem from="1606327350447" duration="70000" />
+      <workItem from="1606327646263" duration="109000" />
+      <workItem from="1614075395760" duration="3977000" />
     </task>
     <task id="LOCAL-00053" summary="Removed testimonials and conferences tab from aside.">
       <created>1605184890537</created>
@@ -470,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606159511971</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Added ESR Web platform full info page.">
+      <created>1606161857653</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1606161857653</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,7 +481,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Changed title in greek." />
     <MESSAGE value="Added see more on project." />
     <MESSAGE value="Changed see more." />
     <MESSAGE value="Added some stuff." />
@@ -516,7 +505,8 @@
     <MESSAGE value="Added and connected full functioning page for ESR App project." />
     <MESSAGE value="Slide show update in ESR App." />
     <MESSAGE value="Slide show update in ESR App final." />
-    <option name="LAST_COMMIT_MESSAGE" value="Slide show update in ESR App final." />
+    <MESSAGE value="Added ESR Web platform full info page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added ESR Web platform full info page." />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605817920983">
@@ -539,10 +529,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605197530040" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606159515668">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606161861635">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606159515668" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606161861635" />
     <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
