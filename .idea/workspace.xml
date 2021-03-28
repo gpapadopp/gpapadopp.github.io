@@ -19,10 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added ESR Web platform full info page.">
-      <change afterPath="$PROJECT_DIR$/under-construction-site/invoice-program/gr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/invoice-program/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/under-construction-site/invoice-program/screenshots/1.png" afterDir="false" />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added separate page for invoice program.">
+      <change afterPath="$PROJECT_DIR$/under-construction-site/assets/images/projects/streamauth_dashboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/stream-authentication-system/gr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/stream-authentication-system/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/stream-authentication-system/screenshots/dashboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/stream-authentication-system/screenshots/grand_access.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/under-construction-site/stream-authentication-system/screenshots/user_page.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/under-construction-site/gr.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/gr.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/under-construction-site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/under-construction-site/index.html" afterDir="false" />
@@ -115,14 +118,9 @@
       <workItem from="1606154550753" duration="7179000" />
       <workItem from="1606327350447" duration="70000" />
       <workItem from="1606327646263" duration="109000" />
-      <workItem from="1614075395760" duration="3977000" />
-    </task>
-    <task id="LOCAL-00053" summary="Removed testimonials and conferences tab from aside.">
-      <created>1605184890537</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1605184890537</updated>
+      <workItem from="1614075395760" duration="4639000" />
+      <workItem from="1614194063986" duration="32000" />
+      <workItem from="1616930078521" duration="2242000" />
     </task>
     <task id="LOCAL-00054" summary="Added dropdown menu to change languages.">
       <created>1605186375936</created>
@@ -460,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606161857653</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Added separate page for invoice program.">
+      <created>1614082629801</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1614082629816</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +486,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Added see more on project." />
     <MESSAGE value="Changed see more." />
     <MESSAGE value="Added some stuff." />
     <MESSAGE value="Changed project icons." />
@@ -506,44 +510,7 @@
     <MESSAGE value="Slide show update in ESR App." />
     <MESSAGE value="Slide show update in ESR App final." />
     <MESSAGE value="Added ESR Web platform full info page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added ESR Web platform full info page." />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605817920983">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1605817920983" />
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604526843950">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604526843950" />
-    <state x="129" y="55" key="DiffContextDialog" timestamp="1605195007008">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="129" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1605195007008" />
-    <state x="462" y="155" key="FileChooserDialogImpl" timestamp="1605035309539">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="462" y="155" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605035309539" />
-    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1605197530040">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605197530040" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606161861635">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606161861635" />
-    <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604527065542">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.728@0.0.1366.728" timestamp="1604527065542" />
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605191133768">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1605191133768" />
-    <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1606161271876">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="390" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1606161271876" />
+    <MESSAGE value="Added separate page for invoice program." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added separate page for invoice program." />
   </component>
 </project>
