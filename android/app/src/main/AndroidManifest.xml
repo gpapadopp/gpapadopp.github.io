@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.social_radio_20">
    <application
-        android:label="social_radio_20"
+        android:label="Social Radio 2.0"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
