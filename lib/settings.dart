@@ -19,7 +19,7 @@ class _SettingsState extends State<Settings> {
         //Set new lang
         EasyLocalization.of(context).locale = Locale('en', 'US');
         //Save lang string in shared prefs
-        _save(0);
+        _save("English");
       });
     } else if (selectedLanguage == "Greek") {
       setState(() {
@@ -28,23 +28,23 @@ class _SettingsState extends State<Settings> {
         //Set new lang
         EasyLocalization.of(context).locale = Locale('el', 'GR');
         //Save lang string in shared prefs
-        _save(1);
+        _save("Greek");
       });
     }
   }
 
   //Save Language in Shared Prefs
-  _save(int currentLanguage) async {
+  _save(String currentLanguage) async {
     final SharedPreferences langPrefsSave =
         await SharedPreferences.getInstance();
-    await langPrefsSave.setInt("Language", currentLanguage);
+    await langPrefsSave.setString("Language", currentLanguage);
   }
 
   //Read Language from Shared Prefs
   _read() async {
     final SharedPreferences langPrefsRead =
         await SharedPreferences.getInstance();
-    return langPrefsRead.getInt("Language") ?? 0;
+    return langPrefsRead.getString("Language") ?? "Engish";
   }
 
   @override
@@ -58,7 +58,6 @@ class _SettingsState extends State<Settings> {
 
   //ListView Widget
   Widget getListView() {
-    _read();
     return ListView(
       children: <Widget>[
         ListTile(
@@ -66,7 +65,16 @@ class _SettingsState extends State<Settings> {
           title: Text("langs".tr().toString()),
           subtitle: Text("Choose the app's language"),
           onTap: () {
-            languageList();
+            String test = _read().toString();
+            //languageList();
+            Fluttertoast.showToast(
+                msg: test,
+                toastLength: Toast.LENGTH_SHORT,
+                gravity: ToastGravity.CENTER,
+                timeInSecForIosWeb: 1,
+                backgroundColor: Colors.red,
+                textColor: Colors.white,
+                fontSize: 16.0);
           },
         )
       ],
@@ -78,7 +86,7 @@ class _SettingsState extends State<Settings> {
     List availableLangs = ["English", "Greek"];
     return SelectDialog.showModal<String>(context,
         label: "Select Language",
-        //selectedValue: availableLangs[_read()],
+        selectedValue: _read().toString(),
         items: List.from(availableLangs), onChange: (String selected) {
       changeLang(selected);
     });

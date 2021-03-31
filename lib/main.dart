@@ -3,12 +3,16 @@ import 'package:social_radio_20/settings.dart';
 import 'package:easy_localization/easy_localization.dart';
 
 void main() {
+  //Start the app with EasyLocalization
   //runApp(MyApp());
   runApp(EasyLocalization(
-    child: MyApp(),
-    path: "assets/languages",
-    saveLocale: true,
-    supportedLocales: [Locale('en', 'US'), Locale('el', 'GR')],
+    child: MyApp(), //Main class
+    path: "assets/languages", //Translation folder
+    saveLocale: true, //To always save the current translation
+    supportedLocales: [
+      Locale('en', 'US'),
+      Locale('el', 'GR')
+    ], //Supported languages
   ));
 }
 
