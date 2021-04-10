@@ -1,9 +1,19 @@
 {
     "title":"Social Radio 2.0",
     "home":"Home Page",
-    "setting_title_txt":"Settings",
-    "languages_settings_title_txt":"Languages",
-    "languages_settings_subtitle_txt":"Choose the app's language",
-    "about_app_settings_title_txt": "About App",
-    "version_number_settings_title_txt":"Version Number"
+    "setting_title":"Settings",
+    "languages":"Languages",
+    "choose_language":"Choose the app's language",
+    "select_language":"Select Language",
+    "about_app": "About App",
+    "version_number":"Version Number",
+    "terms_of_use":"Terms of Use",
+    "open_external_link":"Open External Link",
+    "open_external_link_text":"You are about to redirect to your phone's browser to open an external link.",
+    "ok_txt":"OK",
+    "cancel_txt":"Cancel",
+    "can_not_open_link":"The external link can NOT open.",
+    "privacy_policy":"Privacy Policy",
+    "push_notifications":"Push Notifications",
+    "push_notifications_subtitle":"Enable/Disable receiving Push Notifications"
 }

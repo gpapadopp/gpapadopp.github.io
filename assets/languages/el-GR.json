@@ -1,9 +1,19 @@
 {
     "title":"Ραδιόφωνο",
     "home":"Αρχική Σελίδα",
-    "setting_title_txt":"Ρυθμίσεις",
-    "languages_settings_title_txt":"Γλώσσες",
-    "languages_settings_subtitle_txt":"Επιλέξτε τη Γλώσσα της Εφαρμογής",
-    "about_app_settings_title_txt": "Σχετικά με την Εφαρμογή",
-    "version_number_settings_title_txt":"Αριθμός Έκδοσης"
+    "setting_title":"Ρυθμίσεις",
+    "languages":"Γλώσσες",
+    "choose_language":"Επιλέξτε τη Γλώσσα της Εφαρμογής",
+    "select_language":"Επιλέξτε Γλώσσα",
+    "about_app": "Σχετικά με την Εφαρμογή",
+    "version_number":"Αριθμός Έκδοσης",
+    "terms_of_use":"Όροι Χρήσης",
+    "open_external_link":"Άνοιγμα Εξωτερικού Συνδέσμου",
+    "open_external_link_text":"Πρόκειται να ανακατευθυνθείτε στο περιηγητή του κινητού σας για να ανοίξετε έναν εξωτερικό σύνδεσμο.",
+    "ok_txt":"Εντάξει",
+    "cancel_txt":"Άκυρο",
+    "can_not_open_link":"Ο εξωτερικός σύνδεσμος δε μπορεί να ανοίξει.",
+    "privacy_policy":"Πολιτική Απορρήτου",
+    "push_notifications":"Push Notifications",
+    "push_notifications_subtitle":"Ενεργοποιείστε/Απενεργοποιείστε τα Push Notifications"
 }
