@@ -1,6 +1,9 @@
 {
     "title":"Ραδιόφωνο",
     "home":"Αρχική Σελίδα",
-    "langs":"Γλώσσες",
-    "test": "Αυτό Δουλεύει"
+    "setting_title_txt":"Ρυθμίσεις",
+    "languages_settings_title_txt":"Γλώσσες",
+    "languages_settings_subtitle_txt":"Επιλέξτε τη Γλώσσα της Εφαρμογής",
+    "about_app_settings_title_txt": "Σχετικά με την Εφαρμογή",
+    "version_number_settings_title_txt":"Αριθμός Έκδοσης"
 }

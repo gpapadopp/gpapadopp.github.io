@@ -1,6 +1,9 @@
 {
     "title":"Social Radio 2.0",
     "home":"Home Page",
-    "langs":"Languages",
-    "test": "This works"
+    "setting_title_txt":"Settings",
+    "languages_settings_title_txt":"Languages",
+    "languages_settings_subtitle_txt":"Choose the app's language",
+    "about_app_settings_title_txt": "About App",
+    "version_number_settings_title_txt":"Version Number"
 }

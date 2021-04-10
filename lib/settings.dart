@@ -2,7 +2,8 @@ import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:select_dialog/select_dialog.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:fluttertoast/fluttertoast.dart';
+import 'package:social_radio_20/about_app.dart';
+import 'package:social_radio_20/about_app.dart';
 
 class Settings extends StatefulWidget {
   @override
@@ -43,7 +44,7 @@ class _SettingsState extends State<Settings> {
   Widget build(BuildContext context) {
     return new Scaffold(
         appBar: new AppBar(
-          title: new Text("Settings"),
+          title: new Text("setting_title_txt".tr().toString()),
         ),
         body: getListView());
   }
@@ -52,10 +53,42 @@ class _SettingsState extends State<Settings> {
   Widget getListView() {
     return ListView(
       children: <Widget>[
+        //About App Item
+        ListTile(
+          leading: Icon(Icons.info_outline),
+          title: Text("about_app_settings_title_txt".tr().toString(),
+              textAlign: TextAlign.center),
+          onTap: () async {
+            //Go to the about app page
+            Navigator.push(context,
+                MaterialPageRoute(builder: (context) => AboutAppPage()));
+          },
+        ),
+        //Divider
+        const Divider(
+          height: 20,
+          thickness: 1,
+          color: Colors.black,
+        ),
+        //Version Number Item
+        ListTile(
+          leading: Icon(Icons.format_list_numbered),
+          title: Text("version_number_settings_title_txt".tr().toString(),
+              textAlign: TextAlign.center),
+        ),
+        //Divider
+        const Divider(
+          height: 20,
+          thickness: 1,
+          color: Colors.black,
+        ),
+        //Choose Language Items
         ListTile(
           leading: Icon(Icons.language),
-          title: Text("langs".tr().toString()),
-          subtitle: Text("Choose the app's language"),
+          title: Text("languages_settings_title_txt".tr().toString(),
+              textAlign: TextAlign.center),
+          subtitle: Text("languages_settings_subtitle_txt".tr().toString(),
+              textAlign: TextAlign.center),
           onTap: () async {
             //First read the saved language value
             final langPrefsRead = await SharedPreferences.getInstance();
