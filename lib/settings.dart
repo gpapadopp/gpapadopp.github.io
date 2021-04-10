@@ -1,5 +1,6 @@
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
+import 'package:package_info/package_info.dart';
 import 'package:select_dialog/select_dialog.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:social_radio_20/about_app.dart';
@@ -40,6 +41,27 @@ class _SettingsState extends State<Settings> {
     langPrefsSave.setInt("Language", currentLanguage);
   }
 
+  //App Basic Info
+  PackageInfo _appBasicInfo = PackageInfo(
+    appName: 'Unknown',
+    packageName: 'Unknown',
+    version: 'Unknown',
+    buildNumber: 'Unknown',
+  );
+  Future<void> _initPackageInfo() async {
+    final PackageInfo info = await PackageInfo.fromPlatform();
+    setState(() {
+      _appBasicInfo = info;
+    });
+  }
+
+  //Initialize State Function
+  @override
+  void initState() {
+    super.initState();
+    _initPackageInfo();
+  }
+
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
@@ -75,6 +97,7 @@ class _SettingsState extends State<Settings> {
           leading: Icon(Icons.format_list_numbered),
           title: Text("version_number_settings_title_txt".tr().toString(),
               textAlign: TextAlign.center),
+          subtitle: Text(_appBasicInfo.version, textAlign: TextAlign.center),
         ),
         //Divider
         const Divider(
