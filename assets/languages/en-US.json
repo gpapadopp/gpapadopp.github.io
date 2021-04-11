@@ -15,5 +15,13 @@
     "can_not_open_link":"The external link can NOT open.",
     "privacy_policy":"Privacy Policy",
     "push_notifications":"Push Notifications",
-    "push_notifications_subtitle":"Enable/Disable receiving Push Notifications"
+    "push_notifications_subtitle":"Enable/Disable receiving Push Notifications",
+    "delete_anonymous_data":"Delete Anonymous Data",
+    "delete_all_statistics_data":"Delete all statistics data that has sent to European School Radio",
+    "logout":"Logout",
+    "enabled":"Enabled",
+    "disabled":"Disabled",
+    "receiving_push_notifications":"Receiving Push Notifications?",
+    "i_like_to_receive":"I Like to receive",
+    "i_do_not_like_to_receive":"I do NOT like to receive"
 }

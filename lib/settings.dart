@@ -65,29 +65,60 @@ class _SettingsState extends State<Settings> {
   }
 
 //Setup Choices for the "One Choice Dialog"
-  final SimpleDialog dialog = SimpleDialog(
-    title: Text('Set backup account'),
-    children: [
-      SimpleDialogItem(
-        icon: Icons.account_circle,
-        color: Colors.orange,
-        text: 'user01@gmail.com',
-        onPressed: () {},
-      ),
-      SimpleDialogItem(
-        icon: Icons.account_circle,
-        color: Colors.green,
-        text: 'user02@gmail.com',
-        onPressed: () {},
-      ),
-      SimpleDialogItem(
-        icon: Icons.add_circle,
-        color: Colors.grey,
-        text: 'Add account',
-        onPressed: () {},
-      ),
-    ],
-  );
+//  final SimpleDialog dialog;
+
+  SimpleDialog pushNotificationDialog(bool value) {
+    return SimpleDialog(
+      title: Text("receiving_push_notifications".tr().toString()),
+      children: [
+        SimpleDialogItem(
+          icon: Icons.circle,
+          color: Colors.transparent,
+          text: "i_like_to_receive".tr().toString(),
+          textColor: getColor(1, value),
+          onPressed: () async {
+            //Set the push notification from the API
+            //Save the push notification choice in shared prefs
+            final pushNotification = await SharedPreferences.getInstance();
+            pushNotification.setBool("pushNotification", true);
+            //Remove the Dialog Box
+            Navigator.of(context).pop();
+          },
+        ),
+        SimpleDialogItem(
+          icon: Icons.circle,
+          color: Colors.transparent,
+          text: "i_do_not_like_to_receive".tr().toString(),
+          textColor: getColor(2, value),
+          onPressed: () async {
+            //Set the push notification from the API
+            //Save the push notification choice in shared prefs
+            final pushNotification = await SharedPreferences.getInstance();
+            pushNotification.setBool("pushNotification", false);
+            //Remove the Dialog Box
+            Navigator.of(context).pop();
+          },
+        ),
+      ],
+    );
+  }
+
+  //Get the item color based on shared prefs value
+  Color getColor(int item, bool valuePush) {
+    if (item == 1) {
+      if (valuePush) {
+        return Colors.blue;
+      } else {
+        return Colors.black;
+      }
+    } else {
+      if (valuePush) {
+        return Colors.black;
+      } else {
+        return Colors.blue;
+      }
+    }
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -166,10 +197,15 @@ class _SettingsState extends State<Settings> {
                 textAlign: TextAlign.center),
             subtitle: Text("push_notifications_subtitle".tr().toString(),
                 textAlign: TextAlign.center),
-            onTap: () => showDialog<void>(
-                context: context,
-                builder: (context) => dialog) //Display "One Choice Dialog"
-            ),
+            onTap: () async {
+              final pushNotification = await SharedPreferences.getInstance();
+              final pushNotificationChoice =
+                  pushNotification.getBool("pushNotification") ?? false;
+              showDialog<void>(
+                  context: context,
+                  builder: (context) => pushNotificationDialog(
+                      pushNotificationChoice)); //Display "One Choice Dialog"
+            }),
         //Divider
         const Divider(
           height: 20,
@@ -189,6 +225,34 @@ class _SettingsState extends State<Settings> {
             //Call the widget function and send the language value for the selectedValue
             languageList(langVal);
           },
+        ),
+        const Divider(
+          height: 20,
+          thickness: 1,
+          color: Colors.black,
+        ),
+        //Delete Statistics Data Item
+        ListTile(
+          leading: Icon(
+            Icons.delete,
+            color: Colors.red,
+          ),
+          title: Text("delete_anonymous_data".tr().toString(),
+              textAlign: TextAlign.center, style: TextStyle(color: Colors.red)),
+          subtitle: Text("delete_all_statistics_data".tr().toString(),
+              textAlign: TextAlign.center, style: TextStyle(color: Colors.red)),
+          //onTap: () => //Delete the statistics data
+        ),
+        const Divider(
+          height: 20,
+          thickness: 1,
+          color: Colors.black,
+        ),
+        //Logout Account Item
+        ListTile(
+          leading: Icon(Icons.logout),
+          title: Text("logout".tr().toString(), textAlign: TextAlign.center),
+          //onTap: () => //Logout the account from this device
         )
       ],
     );

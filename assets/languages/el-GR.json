@@ -15,5 +15,13 @@
     "can_not_open_link":"Ο εξωτερικός σύνδεσμος δε μπορεί να ανοίξει.",
     "privacy_policy":"Πολιτική Απορρήτου",
     "push_notifications":"Push Notifications",
-    "push_notifications_subtitle":"Ενεργοποιείστε/Απενεργοποιείστε τα Push Notifications"
+    "push_notifications_subtitle":"Ενεργοποιείστε/Απενεργοποιείστε τα Push Notifications",
+    "delete_anonymous_data":"Διαγραφή Ανώνυμων Δεδομένων",
+    "delete_all_statistics_data":"Διαγραφή στατιστικών στοιχείων που έχουν σταλεί στο European School Radio",
+    "logout":"Αποσύνδεση",
+    "enabled":"Ενεργοποιημένα",
+    "disabled":"Απενεργοποιημένα",
+    "receiving_push_notifications":"Να λάμβάνετε Push Notifications?",
+    "i_like_to_receive":"Επιθυμώ να λαμβάνω",
+    "i_do_not_like_to_receive":"ΔΕΝ επιθυμώ να λαμβάνω"
 }

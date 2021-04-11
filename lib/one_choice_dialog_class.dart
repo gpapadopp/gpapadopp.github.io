@@ -3,12 +3,18 @@ import 'package:flutter/material.dart';
 
 class SimpleDialogItem extends StatelessWidget {
   const SimpleDialogItem(
-      {Key key, this.icon, this.color, this.text, this.onPressed})
+      {Key key,
+      this.icon,
+      this.color,
+      this.text,
+      this.textColor,
+      this.onPressed})
       : super(key: key);
 
   final IconData icon;
   final Color color;
   final String text;
+  final Color textColor;
   final VoidCallback onPressed;
 
   @override
@@ -22,7 +28,10 @@ class SimpleDialogItem extends StatelessWidget {
           Icon(icon, size: 36.0, color: color),
           Padding(
             padding: const EdgeInsetsDirectional.only(start: 16.0),
-            child: Text(text),
+            child: Text(
+              text,
+              style: TextStyle(color: textColor),
+            ),
           ),
         ],
       ),
