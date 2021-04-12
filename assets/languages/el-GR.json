@@ -15,13 +15,16 @@
     "can_not_open_link":"Ο εξωτερικός σύνδεσμος δε μπορεί να ανοίξει.",
     "privacy_policy":"Πολιτική Απορρήτου",
     "push_notifications":"Push Notifications",
-    "push_notifications_subtitle":"Ενεργοποιείστε/Απενεργοποιείστε τα Push Notifications",
+    "push_notifications_subtitle":"Ενεργοποιήστε/Απενεργοποιήστε τα Push Notifications",
     "delete_anonymous_data":"Διαγραφή Ανώνυμων Δεδομένων",
     "delete_all_statistics_data":"Διαγραφή στατιστικών στοιχείων που έχουν σταλεί στο European School Radio",
     "logout":"Αποσύνδεση",
     "enabled":"Ενεργοποιημένα",
     "disabled":"Απενεργοποιημένα",
-    "receiving_push_notifications":"Να λάμβάνετε Push Notifications?",
+    "receiving_push_notifications":"Να λαμβάνετε Push Notifications;",
     "i_like_to_receive":"Επιθυμώ να λαμβάνω",
-    "i_do_not_like_to_receive":"ΔΕΝ επιθυμώ να λαμβάνω"
+    "i_do_not_like_to_receive":"ΔΕΝ επιθυμώ να λαμβάνω",
+    "delete_all_downloaded_episodes":"Διαγραφή όλων των ληφθέντων επεισοδίων.",
+    "delete_all_downloaded_episodes_message":"Αυτή η διαδικασία θα διαγράψει όλες τις ληφθέντες εκπομπές από τη συσκευή σας, και δε θα μπορείτε να τις ακούσετε όταν θα είστε offline.",
+    "are_you_sure_u_want_to_procceed":"Είστε σίγουροι ότι θέλετε να συνεχίσετε;"
 }

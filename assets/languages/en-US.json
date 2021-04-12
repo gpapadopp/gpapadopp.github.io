@@ -23,5 +23,8 @@
     "disabled":"Disabled",
     "receiving_push_notifications":"Receiving Push Notifications?",
     "i_like_to_receive":"I Like to receive",
-    "i_do_not_like_to_receive":"I do NOT like to receive"
+    "i_do_not_like_to_receive":"I do NOT like to receive",
+    "delete_all_downloaded_episodes":"Delete all downloaded episodes.",
+    "delete_all_downloaded_episodes_message":"This proccedure will delete all the downloaded episodes from your phone, and you will cannot listen to them offline anymore.",
+    "are_you_sure_u_want_to_procceed":"Are you sure you want to procceed?"
 }

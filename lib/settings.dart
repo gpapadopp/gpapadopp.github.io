@@ -5,7 +5,7 @@ import 'package:package_info/package_info.dart';
 import 'package:select_dialog/select_dialog.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:social_radio_20/about_app.dart';
-import 'package:social_radio_20/one_choice_dialog_class.dart';
+import 'package:social_radio_20/customClasses/one_choice_dialog_class.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class Settings extends StatefulWidget {
@@ -231,6 +231,22 @@ class _SettingsState extends State<Settings> {
           thickness: 1,
           color: Colors.black,
         ),
+        //Delete All Downloads
+        ListTile(
+            leading: Icon(
+              Icons.delete,
+              color: Colors.red,
+            ),
+            title: Text("delete_all_downloaded_episodes".tr().toString(),
+                textAlign: TextAlign.center,
+                style: TextStyle(color: Colors.red)),
+            onTap: () => _deleteAllDownloadsMSG() //Delete the statistics data
+            ),
+        const Divider(
+          height: 20,
+          thickness: 1,
+          color: Colors.black,
+        ),
         //Delete Statistics Data Item
         ListTile(
           leading: Icon(
@@ -318,5 +334,40 @@ class _SettingsState extends State<Settings> {
           textColor: Colors.white,
           fontSize: 16.0);
     }
+  }
+
+  //Show confirmation message - Delete all downloads
+  Future<void> _deleteAllDownloadsMSG() async {
+    return showDialog<void>(
+      context: context,
+      barrierDismissible: false, // user must tap button!
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: Text("are_you_sure_u_want_to_procceed".tr().toString()),
+          content: SingleChildScrollView(
+            child: ListBody(
+              children: <Widget>[
+                Text("delete_all_downloaded_episodes_message".tr().toString())
+              ],
+            ),
+          ),
+          actions: <Widget>[
+            TextButton(
+              child: Text("ok_txt".tr().toString()),
+              onPressed: () {
+                Navigator.of(context).pop();
+                //Delete all downloads
+              },
+            ),
+            TextButton(
+              child: Text("cancel_txt".tr().toString()),
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+            ),
+          ],
+        );
+      },
+    );
   }
 }
