@@ -2,7 +2,7 @@
     package="com.example.social_radio_20">
    <application
         android:label="Social Radio 2.0"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

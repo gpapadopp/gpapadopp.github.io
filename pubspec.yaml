@@ -41,11 +41,22 @@ dependencies:
 
   url_launcher: ^6.0.3
 
+  flutter_launcher_icons: ^0.9.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
   integration_test:
     sdk: flutter
+
+
+# Set the app's launcher icon
+# After EVERY change, run in terminal "flutter pub run flutter_launcher_icons:main"
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/images/app_icon_main.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
