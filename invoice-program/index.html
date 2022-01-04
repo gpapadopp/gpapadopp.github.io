@@ -19,6 +19,16 @@
     <!-- Theme CSS -->
     <link id="theme-style" rel="stylesheet" href="../assets/css/styles.css">
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6QPQEKNQV1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-6QPQEKNQV1');
+    </script>
+
 </head>
 
 <body>
@@ -41,10 +51,10 @@
         </div><!--//profile-->
         <a class="btn btn-cta-primary float-right" href="https://themes.3rdwavemedia.com/" target="_blank"><i class="fas fa-paper-plane"></i> Contact Me</a>
         <a href="../index.html"><i class="fas fa-arrow-left" style="position:absolute; top:8.5%; left:4%;"></i></a>
-        <div class="dropdown" style="width: 50px; border-radius: 0%; position:absolute; top:5%; right:4%;">
-            <button class="dropbtn"><img id="img_us" src="../assets/images/img-us.svg" style="width: 50px; border-radius: 0%;" alt=""/></button>
+        <div class="dropdown" style="width: 50px; border-radius: 0; position:absolute; top:5%; right:4%;">
+            <button class="dropbtn"><img id="img_us" src="../assets/images/img-us.svg" style="width: 50px; border-radius: 0;" alt="English Flag"/></button>
             <div class="dropdown-content">
-                <a href="../el/"><img id="img_gr" alt="" src="../assets/images/img-gr.svg" style="width: 50px; border-radius: 0%;"/></a>
+                <a href="../el/"><img id="img_gr" alt="Greek Flag" src="../assets/images/img-gr.svg" style="width: 50px; border-radius: 0;"/></a>
             </div>
         </div>
     </div><!--//container-->
@@ -70,7 +80,6 @@
                                     Import a PDF file (.pdf) to read invoices. Invoices may have been scanned by a scanner, or exported from an invoice generator. (The program is optimized for importing a scanned invoice.)
                                 </li>
                             </ul>
-                        </p>
                         <p>After the import of the above files, the program will start its execution, where it will "read" the VAT invoices from the page, through the character recognition technology (OCR). It will then match the VAT numbers with the list of VAT numbers from the imported customer list, and then export the customer's e-mail. It will automatically connect to the provider's SMTP Server, and send the e-mail to the respective client.</p>
                         <p>The complete process by which the program runs can be read in the GitHub repository.</p>
 

@@ -22,6 +22,16 @@
     <!-- Theme CSS -->
     <link id="theme-style" rel="stylesheet" href="../assets/css/styles.css">
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6QPQEKNQV1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-6QPQEKNQV1');
+    </script>
+
 </head>
 
 <body>
@@ -44,10 +54,10 @@
         </div><!--//profile-->
         <a class="btn btn-cta-primary float-right" href="https://themes.3rdwavemedia.com/" target="_blank"><i class="fas fa-paper-plane"></i> Contact Me</a>
         <a href="../index.html"><i class="fas fa-arrow-left" style="position:absolute; top:8.5%; left:4%;"></i></a>
-        <div class="dropdown" style="width: 50px; border-radius: 0%; position:absolute; top:5%; right:4%;">
-            <button class="dropbtn"><img id="img_us" src="../assets/images/img-us.svg" style="width: 50px; border-radius: 0%;" alt=""/></button>
+        <div class="dropdown" style="width: 50px; border-radius: 0; position:absolute; top:5%; right:4%;">
+            <button class="dropbtn"><img id="img_us" src="../assets/images/img-us.svg" style="width: 50px; border-radius: 0;" alt="English Flag"/></button>
             <div class="dropdown-content">
-                <a href="../el/"><img id="img_gr" alt="" src="../assets/images/img-gr.svg" style="width: 50px; border-radius: 0%;"/></a>
+                <a href="../el/"><img id="img_gr" alt="Greek Flag" src="../assets/images/img-gr.svg" style="width: 50px; border-radius: 0;"/></a>
             </div>
         </div>
     </div><!--//container-->
@@ -63,25 +73,25 @@
                         <div class="ism-slider" id="my-slider" style="margin-left:50%; transform:translateX(-50%)">
                             <ol>
                                 <li>
-                                    <img src="screenshots/english/1-menu.png">
+                                    <img src="screenshots/english/1-menu.png" alt="Menu Page">
                                 </li>
                                 <li>
-                                    <img src="screenshots/english/2-listen-live.png">
+                                    <img src="screenshots/english/2-listen-live.png" alt="Listen Live Page">
                                 </li>
                                 <li>
-                                    <img src="screenshots/english/3-next-shows.png">
+                                    <img src="screenshots/english/3-next-shows.png" alt="Next Shows Page">
                                 </li>
                                 <li>
-                                    <img src="screenshots/english/4-schedule.png">
+                                    <img src="screenshots/english/4-schedule.png" alt="Schedule Page">
                                 </li>
                                 <li>
-                                    <img src="screenshots/english/5-podcasts.png">
+                                    <img src="screenshots/english/5-podcasts.png" alt="Podcasts Page">
                                 </li>
                                 <li>
-                                    <img src="screenshots/english/6-news.png">
+                                    <img src="screenshots/english/6-news.png" alt="News Page">
                                 </li>
                                 <li>
-                                    <img src="screenshots/english/7-archive.png">
+                                    <img src="screenshots/english/7-archive.png" alt="Archive Page">
                                 </li>
                             </ol>
                         </div>
@@ -97,7 +107,6 @@
                                 <li>Screen for reading radio news - articles published on the site of European School Radio</li>
                                 <li>Settings screen, to configure the application according to the user's preferences</li>
                             </ul>
-                        </p>
                         <p>The European School Radio application for Android smartphones was developed in a bilingual environment, English and Greek, with the aim of its widespread use.</p>
                         <p>The technologies used for this project, in detail, are the following:
                             <ul>
@@ -106,7 +115,6 @@
                                 <li>PHP (to create a suitable API on the main Server of European School Radio, to support all the functions of the application)</li>
                                 <li>MySQL (for interaction with the European School Radio Database)</li>
                             </ul>
-                        </p>
                         <p>Main edition development: Stefanos Iliadis<br>
                             Implementation of new elements: George Papadopoulos<br>
                             Main implementation support: Symeon Sideris
