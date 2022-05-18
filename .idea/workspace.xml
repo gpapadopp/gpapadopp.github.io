@@ -22,7 +22,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added medium article, and article section on index page.">
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Changed ending date as member in ESR. Added partner in ESR.">
+      <change afterPath="$PROJECT_DIR$/assets/images/projects/ek_vatheon_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ek-vatheon/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ek-vatheon/ism/css/my-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ek-vatheon/ism/js/ism-2.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ek-vatheon/screenshots/screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ek-vatheon/screenshots/screenshot_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ek-vatheon/screenshots/screenshot_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ek-vatheon/screenshots/screenshot_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ek-vatheon/screenshots/screenshot_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon/ism/css/my-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon/ism/js/ism-2.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon/screenshots/screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon/screenshots/screenshot_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon/screenshots/screenshot_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon/screenshots/screenshot_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon/screenshots/screenshot_5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/el/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/el/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -60,9 +77,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/georgepapadopoulos/PhpstormProjects/Personal-Site/el/ek-vatheon",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,8 +92,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/el/ek-vatheon" />
+      <recent name="$PROJECT_DIR$/ek-vatheon/screenshots" />
+      <recent name="$PROJECT_DIR$/ek-vatheon" />
+      <recent name="$PROJECT_DIR$/assets/images/projects" />
       <recent name="C:\Users\xaxol\PhpstormProjects\gpapadopp.github.io\el" />
-      <recent name="C:\Users\georg\PhpstormProjects\gpapadopp.github.io\under-construction-site\esr-web" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\xaxol\PhpstormProjects\gpapadopp.github.io" />
@@ -120,14 +142,9 @@
       <workItem from="1614194063986" duration="32000" />
       <workItem from="1616930078521" duration="2242000" />
       <workItem from="1641304028781" duration="9890000" />
-      <workItem from="1652566733149" duration="1854000" />
-    </task>
-    <task id="LOCAL-00056" summary="Added programming language to ESR Web.">
-      <created>1605187930372</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1605187930372</updated>
+      <workItem from="1652566733149" duration="2567000" />
+      <workItem from="1652630776016" duration="28000" />
+      <workItem from="1652883016128" duration="1650000" />
     </task>
     <task id="LOCAL-00057" summary="Changed main theme.">
       <created>1605189233259</created>
@@ -465,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652567884737</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Changed ending date as member in ESR. Added partner in ESR.">
+      <created>1652568743654</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1652568743654</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,7 +509,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Changed project icons." />
     <MESSAGE value="Changed links." />
     <MESSAGE value="Added folder for esr-app project." />
     <MESSAGE value="Deleted unused content." />
@@ -510,6 +533,7 @@
     <MESSAGE value="Added separate page for invoice program." />
     <MESSAGE value="Main site release." />
     <MESSAGE value="Added medium article, and article section on index page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added medium article, and article section on index page." />
+    <MESSAGE value="Changed ending date as member in ESR. Added partner in ESR." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed ending date as member in ESR. Added partner in ESR." />
   </component>
 </project>
