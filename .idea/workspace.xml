@@ -22,7 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Changed ending date as member in ESR. Added partner in ESR.">
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Duplicated &quot;New&quot; project to portfolio.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/el/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/el/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -127,14 +128,8 @@
       <workItem from="1652566733149" duration="2567000" />
       <workItem from="1652630776016" duration="28000" />
       <workItem from="1652883016128" duration="1650000" />
-      <workItem from="1664751960284" duration="488000" />
-    </task>
-    <task id="LOCAL-00057" summary="Changed main theme.">
-      <created>1605189233259</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1605189233259</updated>
+      <workItem from="1664751960284" duration="597000" />
+      <workItem from="1665337299275" duration="920000" />
     </task>
     <task id="LOCAL-00058" summary="Added new file for theme.">
       <created>1605189369998</created>
@@ -472,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652568743654</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Duplicated &quot;New&quot; project to portfolio.">
+      <created>1664752486559</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1664752486559</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,7 +494,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Changed links." />
     <MESSAGE value="Added folder for esr-app project." />
     <MESSAGE value="Deleted unused content." />
     <MESSAGE value="Added useful aside." />
@@ -517,6 +518,7 @@
     <MESSAGE value="Main site release." />
     <MESSAGE value="Added medium article, and article section on index page." />
     <MESSAGE value="Changed ending date as member in ESR. Added partner in ESR." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed ending date as member in ESR. Added partner in ESR." />
+    <MESSAGE value="Duplicated &quot;New&quot; project to portfolio." />
+    <option name="LAST_COMMIT_MESSAGE" value="Duplicated &quot;New&quot; project to portfolio." />
   </component>
 </project>
