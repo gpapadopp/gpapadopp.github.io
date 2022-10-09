@@ -22,10 +22,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Duplicated &quot;New&quot; project to portfolio.">
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added ek vatheon radio mobile app to home pages.">
+      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/ism/css/my-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/ism/js/ism-2.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/screenshots/screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/screenshots/screenshot_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/screenshots/screenshot_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/screenshots/screenshot_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/screenshots/screenshot_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/ism/css/my-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/ism/js/ism-2.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/screenshots/screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/screenshots/screenshot_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/screenshots/screenshot_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/screenshots/screenshot_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/screenshots/screenshot_5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/el/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/el/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,28 +72,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/georgepapadopoulos/PhpstormProjects/Personal-Site/el/ek-vatheon&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/georgepapas/PhpstormProjects/gpapadopp.github.io/ek-vatheon-app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ek-vatheon-app" />
+      <recent name="$PROJECT_DIR$/el/ek-vatheon-app" />
       <recent name="$PROJECT_DIR$/el/ek-vatheon" />
       <recent name="$PROJECT_DIR$/ek-vatheon/screenshots" />
       <recent name="$PROJECT_DIR$/ek-vatheon" />
-      <recent name="$PROJECT_DIR$/assets/images/projects" />
-      <recent name="C:\Users\xaxol\PhpstormProjects\gpapadopp.github.io\el" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\xaxol\PhpstormProjects\gpapadopp.github.io" />
@@ -129,14 +143,7 @@
       <workItem from="1652630776016" duration="28000" />
       <workItem from="1652883016128" duration="1650000" />
       <workItem from="1664751960284" duration="597000" />
-      <workItem from="1665337299275" duration="920000" />
-    </task>
-    <task id="LOCAL-00058" summary="Added new file for theme.">
-      <created>1605189369998</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1605189370016</updated>
+      <workItem from="1665337299275" duration="1676000" />
     </task>
     <task id="LOCAL-00059" summary="Removed all files from under-construction.">
       <created>1605189781569</created>
@@ -474,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664752486559</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="Added ek vatheon radio mobile app to home pages.">
+      <created>1665339152767</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1665339152767</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,7 +508,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Added folder for esr-app project." />
     <MESSAGE value="Deleted unused content." />
     <MESSAGE value="Added useful aside." />
     <MESSAGE value="Added text to esr-app page." />
@@ -519,6 +532,7 @@
     <MESSAGE value="Added medium article, and article section on index page." />
     <MESSAGE value="Changed ending date as member in ESR. Added partner in ESR." />
     <MESSAGE value="Duplicated &quot;New&quot; project to portfolio." />
-    <option name="LAST_COMMIT_MESSAGE" value="Duplicated &quot;New&quot; project to portfolio." />
+    <MESSAGE value="Added ek vatheon radio mobile app to home pages." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added ek vatheon radio mobile app to home pages." />
   </component>
 </project>
