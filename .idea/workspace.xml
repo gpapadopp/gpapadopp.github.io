@@ -22,24 +22,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added ek vatheon radio mobile app to home pages.">
-      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/ism/css/my-slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/ism/js/ism-2.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/screenshots/screenshot_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/screenshots/screenshot_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/screenshots/screenshot_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/screenshots/screenshot_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ek-vatheon-app/screenshots/screenshot_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/ism/css/my-slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/ism/js/ism-2.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/screenshots/screenshot_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/screenshots/screenshot_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/screenshots/screenshot_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/screenshots/screenshot_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/el/ek-vatheon-app/screenshots/screenshot_5.png" afterDir="false" />
+    <list default="true" id="7127fa05-a734-40f4-8fcf-9c48317c8c17" name="Default Changelist" comment="Added ek vatheon radio mobile app single pages.">
+      <change afterPath="$PROJECT_DIR$/assets/images/projects/search_and_go_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/search-and-go/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/search-and-go/ism/css/my-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/search-and-go/ism/js/ism-2.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/search-and-go/screenshots/screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/search-and-go/screenshots/screenshot_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/search-and-go/screenshots/screenshot_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/el/search-and-go/screenshots/screenshot_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-and-go/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-and-go/ism/css/my-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-and-go/ism/js/ism-2.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-and-go/screenshots/screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-and-go/screenshots/screenshot_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-and-go/screenshots/screenshot_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search-and-go/screenshots/screenshot_4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/el/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/el/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +79,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/georgepapas/PhpstormProjects/gpapadopp.github.io/ek-vatheon-app",
+    "last_opened_file_path": "/home/georgepapas/PhpstormProjects/gpapadopp.github.io/el/search-and-go",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -89,13 +90,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/el/search-and-go" />
+      <recent name="$PROJECT_DIR$/search-and-go/screenshots" />
+      <recent name="$PROJECT_DIR$/search-and-go" />
       <recent name="$PROJECT_DIR$/ek-vatheon-app" />
       <recent name="$PROJECT_DIR$/el/ek-vatheon-app" />
-      <recent name="$PROJECT_DIR$/el/ek-vatheon" />
-      <recent name="$PROJECT_DIR$/ek-vatheon/screenshots" />
-      <recent name="$PROJECT_DIR$/ek-vatheon" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/projects" />
       <recent name="C:\Users\xaxol\PhpstormProjects\gpapadopp.github.io" />
       <recent name="C:\Users\georg\PhpstormProjects\gpapadopp.github.io\under-construction-site\assets\images\projects" />
     </key>
@@ -143,14 +145,7 @@
       <workItem from="1652630776016" duration="28000" />
       <workItem from="1652883016128" duration="1650000" />
       <workItem from="1664751960284" duration="597000" />
-      <workItem from="1665337299275" duration="1676000" />
-    </task>
-    <task id="LOCAL-00059" summary="Removed all files from under-construction.">
-      <created>1605189781569</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1605189781579</updated>
+      <workItem from="1665337299275" duration="3539000" />
     </task>
     <task id="LOCAL-00060" summary="Added new theme.">
       <created>1605189934330</created>
@@ -488,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665339152767</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Added ek vatheon radio mobile app single pages.">
+      <created>1665339913484</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1665339913485</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,7 +510,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Deleted unused content." />
     <MESSAGE value="Added useful aside." />
     <MESSAGE value="Added text to esr-app page." />
     <MESSAGE value="Remove useless &lt;br&gt;s." />
@@ -533,6 +534,7 @@
     <MESSAGE value="Changed ending date as member in ESR. Added partner in ESR." />
     <MESSAGE value="Duplicated &quot;New&quot; project to portfolio." />
     <MESSAGE value="Added ek vatheon radio mobile app to home pages." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added ek vatheon radio mobile app to home pages." />
+    <MESSAGE value="Added ek vatheon radio mobile app single pages." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added ek vatheon radio mobile app single pages." />
   </component>
 </project>
